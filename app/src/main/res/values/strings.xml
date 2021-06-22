@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lium Banoo</string>
+    <string name="calculate">محاسبه</string>
+    <string name="kilo_gram">کیلوگرم</string>
+    <string name="bmi">قد و وزن و BMI</string>
+    <string name="choosing_weight">انتخاب وزن</string>
+    <string name="choosing_length">انتخاب قد</string>
+    <string name="centi_meter">سانتی متر</string>
+    <string name="current_condition">شرایط فعلی bmi شما</string>
+    <string name="start_again">شروع مجدد</string>
+    <string name="back_to_tools">بازگشت به ابزارها</string>
+    <string name="read_more">بیشتر بخوانید</string>
+    <string name="number_100">100 \n سانتی متر</string>
+    <string name="bmi_general_info">کی از مهمترین عوامل سلامتی داشتن وزن مناسبه. با مشخص کردن شاخص توده بدنی خودت یا همون BMI(Body Mass Index) میتونی بفهمی آیا وزن فعلی که داری برای تو مناسب هست یا نه. فقط کافیه قد و وزنت رو به ما بدی و ما برات اونو اندازه میکنیم.</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="options_card">18sp</dimen>
+    <dimen name="options_layout">10dp</dimen>
+    <dimen name="options_card_radius">12dp</dimen>
+</resources>
